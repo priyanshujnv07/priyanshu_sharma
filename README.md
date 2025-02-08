@@ -49,13 +49,13 @@ I am a **Master’s student in Survey Research and Data Analytics** at IIPS Mumb
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/priyanshusharmajnv07](https://www.linkedin.com/in/priyanshusharmajnv07/)
-- **GitHub**: [github.com/priyanshusharma](https://github.com/priyanshusharma)
+- **GitHub**: [github.com/priyanshujnv07](https://github.com/priyanshujnv07)
 - **Email**: priyanshusharmajnv07@gmail.com | priyanshu.092414@iipsindia.ac.in
 - **Phone**: 7300589110
 
 ## 📂 Portfolio & CV
 - **Resume**: (https://drive.google.com/drive/folders/1DteNNo9ZZQWAWhxI5BgN5QrxHCtydqLY?usp=drive_link)
-- **Portfolio Website (Coming Soon!)**
+
 
 ---
 ⚡ *Open to internship opportunities in data analytics, survey research, and market intelligence!*
