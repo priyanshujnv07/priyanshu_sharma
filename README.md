@@ -54,8 +54,8 @@ I am a **Master’s student in Survey Research and Data Analytics** at IIPS Mumb
 - **Phone**: 7300589110
 
 ## 📂 Portfolio & CV
-- **Resume**: (https://drive.google.com/drive/folders/1DteNNo9ZZQWAWhxI5BgN5QrxHCtydqLY?usp=drive_link)
+- **Resume**: (https://drive.google.com/file/d/1Dn52PcOJHjnrPhrM3D7JlDyfuIDCIQze/view?usp=sharing)
 
 
 ---
-⚡ *Open to internship opportunities in data analytics, survey research, and market intelligence!*
+⚡ *Open to data analytics, survey research, and market intelligence internship opportunities!*
